@@ -1,25 +1,9 @@
 package de.daniel.utils;
-
-import de.Client.Main.Main;
-import net.minecraft.client.Minecraft;
-import net.minecraft.client.gui.Gui;
 import net.minecraft.client.gui.ScaledResolution;
-import net.minecraft.client.renderer.EntityRenderer;
-import net.minecraft.client.renderer.texture.ITextureObject;
-import net.minecraft.client.renderer.texture.SimpleTexture;
-import net.minecraft.client.renderer.texture.TextureUtil;
-import net.minecraft.util.ResourceLocation;
-import optifine.Config;
-import org.lwjgl.BufferUtils;
-import org.lwjgl.Sys;
-import org.lwjgl.input.Mouse;
-import org.lwjgl.opengl.*;
-import shadersmod.client.Shaders;
-import shadersmod.client.ShadersTex;
-import sun.util.calendar.BaseCalendar;
 
-import java.sql.Date;
-import java.util.Random;
+import org.lwjgl.opengl.*;
+
+
 
 public class ShaderUtil {
 
