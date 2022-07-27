@@ -1,11 +1,11 @@
 package de.daniel.modules.movement;
 
-import de.daniel.modules.Mod;
+import de.daniel.modules.Module;
 
-public class Sprint extends Mod {
+public class Sprint extends Module {
 
     public void onUpdate(){
-        System.out.println("test");
+
     }
 
 }
